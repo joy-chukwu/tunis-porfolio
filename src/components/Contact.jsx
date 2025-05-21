@@ -56,9 +56,10 @@ const Contact = () => {
           <div className="col-12 col-md-6">
             <div className="form-group">
               <input
-                type="email"
-                name="user_email"
-                placeholder="YOUR EMAIL"
+              type="email"
+              name="reply_to"
+              placeholder="YOUR EMAIL"
+                
                 required
               />
             </div>
@@ -70,7 +71,7 @@ const Contact = () => {
               <input
                 type="text"
                 name="subject"
-                placeholder="YOUR SUBJECT"
+                placeholder="SUBJECT"
                 required
               />
             </div>

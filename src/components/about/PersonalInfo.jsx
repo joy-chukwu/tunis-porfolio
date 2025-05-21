@@ -8,7 +8,7 @@ const personalInfoContent = [
   { meta: "Availability", metaInfo: "Available" },
   { meta: "Address", metaInfo: "Lagos" },
   { meta: "phone", metaInfo: "+234 810 530 1651" },
-  { meta: "Email", metaInfo: "joychukwu6492gmail.com" },
+  { meta: "Email", metaInfo: "joychukwu649@gmail.com" },
   // { meta: "Skype", metaInfo: " steve.milner" },
   { meta: "langages", metaInfo: "English, Igbo" },
 ];
