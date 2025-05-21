@@ -1,4 +1,4 @@
-# joy's Personal Portfolio
+# Joy's Personal Portfolio
 
 ## Description
 
